@@ -1,1 +1,3 @@
 - 👋 Hi, I’m @LassiF
+- I like coding and learning to code
+- See ya
