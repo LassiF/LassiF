@@ -1,3 +1,5 @@
 - 👋 Hi, I’m @LassiF
-- I like coding and learning to code
+- I'm new to coding
+- I'm interested in all fields of coding
+- I look forward to contributing to open source
 - See ya
